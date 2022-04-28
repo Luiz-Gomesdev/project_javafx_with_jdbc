@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+C:\Users\lgome\Desktop\JAVA\NELIO ALVES\52 - Projeto javaFX com JDBC\.metadata\.plugins\org.eclipse.jdt.core
+1758164153.index
+2931855049.index
+760091825.index
+1516533185.index
+3270392050.index
+2005936844.index
+1111959132.index
+2212604168.index
+413443004.index
+720347749.index
+3015022331.index
